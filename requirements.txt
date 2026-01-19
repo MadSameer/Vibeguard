@@ -9,3 +9,4 @@ reportlab
 chromadb
 sentence-transformers
 pysqlite3-binary
+pypdf
